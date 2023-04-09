@@ -1,0 +1,2 @@
+# build_remote_connect_from_win_to_mac
+本来是为了解决mac catalina版本不能PPTP连接VPN问题，利用旧win实现远程连接
